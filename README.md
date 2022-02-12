@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sohnythomas
 - 👀 I’m interested in Stocks, Python, Devops, Kubernetes, Docker and Openstack
-- 🌱 I’m currently learning python, dokcer , kubernetes and stock trading
-- 💞️ I’m looking to collaborate on Stock Trading Code and Kubernetes
+- 🌱 I’m currently learning kubernetes, Devops, SRE
+- 💞️ I’m looking to collaborate on Stock Trading Code and Kubernetes and SRE activities
 - 📫 How to reach me sohnythomas@outlook.com
 
 <!---
